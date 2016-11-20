@@ -1,1 +1,2 @@
 # LinuxSetting
+## conky, i3
