@@ -150,6 +150,10 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # self define
+bindsym $mod+t border normal
+bindsym $mod+y border pixel 10
+bindsym $mod+u border none
+
 bindsym $mod+g exec --no-startup-id i3-msg "exec /usr/bin/i3lock -i $HOME/Pictures/map_bg.png"
 exec --no-startup-id xset dpms 300
 exec_always $HOME/.config/i3/startup.sh
@@ -161,4 +165,3 @@ exec --no-startup-id i3-msg 'workspace 2; exec /usr/bin/chromium'
 bar {
         status_command $HOME/.config/i3/conky_start.sh
 }
-
