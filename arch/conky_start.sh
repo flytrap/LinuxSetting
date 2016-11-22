@@ -10,4 +10,4 @@ echo '['
 echo '[],'
 
 # Now send blocks with information forever:
-exec conky -c /home/flytrap/Documents/code/git/LinuxSetting/conkyrc
+exec conky
