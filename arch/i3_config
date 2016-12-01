@@ -150,6 +150,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # self define
+bindsym $mod+Shift+p exec "sleep 0.3 && scrot -s -e 'mv $f ~/Pictures/scrot/'"
 bindsym $mod+t border normal
 bindsym $mod+y border pixel 10
 bindsym $mod+u border none

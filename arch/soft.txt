@@ -1,2 +1,3 @@
-evince
+evince  # read pdf
 emacs
+scrot  # scr
