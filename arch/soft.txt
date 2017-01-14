@@ -1,8 +1,12 @@
 i3  # desktop
 feh  # background
+xcompmgr  # transparent
 thunar  # file browse
 evince  # read pdf
 dmenu  # menu
 emacs
 scrot  # scr
 sakura  # terminal
+alsa-utils  # audio ctrl  alsamixer
+wpa_supplicant
+networkmanager  # nmtui
