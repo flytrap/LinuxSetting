@@ -1,3 +1,8 @@
+i3  # desktop
+feh  # background
+thunar  # file browse
 evince  # read pdf
+dmenu  # menu
 emacs
 scrot  # scr
+sakura  # terminal
