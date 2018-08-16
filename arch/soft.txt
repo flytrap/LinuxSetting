@@ -10,3 +10,4 @@ sakura  # terminal
 alsa-utils  # audio ctrl  alsamixer
 wpa_supplicant
 networkmanager  # nmtui
+wicd  # 网络管理 wicd-cli
